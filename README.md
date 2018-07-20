@@ -23,14 +23,14 @@ Go to `/Programs` and run the following command, making sure your input file is 
 python3 filename.py
 ``` 
 where filename should be replaced with the following according to the required use-case :
-	1. "duplicate"
-	2. "joincols"
-	3. "joinrows"
-	4. "linkedin"
-	5. "search"
-	6. "specialcharacters"
-	7. "splitcols"
-	8. "splitrows"
+	1. `duplicate`
+	2. `joincols`
+	3. `joinrows`
+	4. `linkedin`
+	5. `search`
+	6. `specialcharacters`
+	7. `splitcols`
+	8. `splitrows`
 
 These tools will apply the corresponding rules on the input csv files and write the result to the following based on the chose use-case :
 	1. `duplicate-result.csv`
